@@ -4,8 +4,6 @@ b4slbs3aef.tex
 jm7ddtn80f8.html
 barro29e07o.tex
 72bs1f5pi0g.html
-6q5jiqrsseg.html
-fui2e2retq8.tex
 mkpubrcfdbo.tex
 nr2s2625bc.tex
 8773f7cctk8.html
