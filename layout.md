@@ -2,7 +2,6 @@ untitled.tex
 sectionBilanse_masow.tex
 b4slbs3aef.tex
 jm7ddtn80f8.html
-s9fqqo7lfeg.html
 barro29e07o.tex
 72bs1f5pi0g.html
 6q5jiqrsseg.html
