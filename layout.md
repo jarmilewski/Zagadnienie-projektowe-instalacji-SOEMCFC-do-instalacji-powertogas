@@ -11,7 +11,6 @@ fui2e2retq8.tex
 mkpubrcfdbo.tex
 nr2s2625bc.tex
 8773f7cctk8.html
-8ic547gr638.html
 sectionBilans_mocy_e.tex
 sectionKubaWytyczne_.tex
 sectionKuba_Opis_pro.tex
