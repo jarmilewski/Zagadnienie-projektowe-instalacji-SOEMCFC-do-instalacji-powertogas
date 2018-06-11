@@ -1,0 +1,39 @@
+\select@language {polish}
+\contentsline {section}{\numberline {1}Bilanse masowe i energetyczne}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Wariant min}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Wariant max}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Wariant nominalny}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Wariant z parametrami krytycznymi \IeC {\textendash } czy istnieje??}{3}{subsection.1.4}
+\contentsline {section}{\numberline {2}Bilans mocy elektrycznej dla instalacji z podzia\IeC {\l }em na g\IeC {\l }\IeC {\'o}wne urz\IeC {\k a}dzenia nominalnie i maksymalnie wraz z zabezpieczeniami}{3}{section.2}
+\contentsline {section}{\numberline {3}(Kuba)+Wytyczne materia\IeC {\l }owe dla urz\IeC {\k a}dze\IeC {\'n}, aparat\IeC {\'o}w, armatury i~ruroci\IeC {\k a}g\IeC {\'o}w}{3}{section.3}
+\contentsline {section}{\numberline {4}(Kuba) Opis prowadzenia procesu z uwzgl\IeC {\k e}dnieniem parametr\IeC {\'o}w mierzonych i sterowanych}{4}{section.4}
+\contentsline {section}{\numberline {5}(Kuba) Opis prowadzenia rozruchu i zatrzymania z uwzgl\IeC {\k e}dnieniem parametr\IeC {\'o}w i harmonogramu czasowego}{4}{section.5}
+\contentsline {section}{\numberline {6}Planowany program bada\IeC {\'n} z uwzgl\IeC {\k e}dnieniem regulacyjno\IeC {\'s}ci uk\IeC {\l }adu}{4}{section.6}
+\contentsline {section}{\numberline {7}Chwilowe parametry krytyczne procesu w celu ustalenia warto\IeC {\'s}ci obliczeniowych \IeC {\textendash } parametr\IeC {\'o}w obliczeniowych}{4}{section.7}
+\contentsline {section}{\numberline {8}(Kuba) Zachowanie w stanach awaryjnych \IeC {\textendash } procedury w r\IeC {\'o}\IeC {\.z}nych wariantach/sytuacjach awaryjnych \IeC {\textendash } przedstawienie na masce z opisem i parametrami co i jak pracuje}{4}{section.8}
+\contentsline {section}{\numberline {9}Jakie powstaj\IeC {\k a} odpady ich ilo\IeC {\'s}ci i przewidywany sk\IeC {\l }ad \IeC {\textendash } odpady, \IeC {\'s}cieki, emisje}{4}{section.9}
+\contentsline {section}{\numberline {10}Karty Charakterystyki substancji niebezpiecznych (sorbenty, oleje itp) jakie s\IeC {\k a} przewidywane do u\IeC {\.z}ycia w instalacji}{4}{section.10}
+\contentsline {section}{\numberline {11}+Jakie substancje mog\IeC {\k a} pojawi\IeC {\'c} na wylocie z uk\IeC {\l }adu a na wlocie do SNG\IeC {\textendash }CO2}{4}{section.11}
+\contentsline {section}{\numberline {12}Zakresy sk\IeC {\l }adu mieszanki wylotowej w kontek\IeC {\'s}cie zakres\IeC {\'o}w pomiarowych do analizatora}{6}{section.12}
+\contentsline {section}{\numberline {13}Odpylanie - Odsiarczanie \IeC {\textendash } Pomiar/detektor \IeC {\textendash } zabezpieczaj\IeC {\k a}cy filtr w\IeC {\k e}glowy - ogniwo}{6}{section.13}
+\contentsline {section}{\numberline {14}Odsiarczanie modu\IeC {\l } b\IeC {\k e}dzie zabudowany do poziomu 1 ppm wprowadzi\IeC {\'c} zabezpieczenie od tego poziomu}{6}{section.14}
+\contentsline {section}{\numberline {15}JZ \IeC {\textendash } parametry spalin sk\IeC {\l }ad + zapylenie}{6}{section.15}
+\contentsline {subsection}{\numberline {15.1}Tlenek w\IeC {\k e}gla (CO)}{6}{subsection.15.1}
+\contentsline {subsection}{\numberline {15.2}Tlen (O\textsubscript {2})}{6}{subsection.15.2}
+\contentsline {subsection}{\numberline {15.3}Py\IeC {\l }}{6}{subsection.15.3}
+\contentsline {subsection}{\numberline {15.4}Dwutlenek siarki (SO\textsubscript {2})}{6}{subsection.15.4}
+\contentsline {section}{\numberline {16}Zabudowa\IeC {\'c} modu\IeC {\l } odpylania ze skuteczno\IeC {\'s}ci\IeC {\k a} odpylania do poziomu ???}{6}{section.16}
+\contentsline {section}{\numberline {17}Zdublowanie dmuchawy spalin na wlocie}{6}{section.17}
+\contentsline {section}{\numberline {18}Zdublowana pompa wody \IeC {\textendash } do przeanalizowania}{6}{section.18}
+\contentsline {section}{\numberline {19}Wej\IeC {\'s}cie Dmuchawa spalin \IeC {\textendash } regulacja 0 .. 100\%}{6}{section.19}
+\contentsline {section}{\numberline {20}Uk\IeC {\l }ad powietrza \IeC {\textendash } istniej\IeC {\k a}ca spr\IeC {\k e}\IeC {\.z}arka z SNG, nowa spr\IeC {\k e}\IeC {\.z}arka, dmuchawa \IeC {\textendash } rozwa\IeC {\.z}y\IeC {\'c} co??}{6}{section.20}
+\contentsline {section}{\numberline {21}Na wypark\IeC {\k e} woda zdemi + alternatywne drugi np. pitna lub ch\IeC {\l }odz\IeC {\k a}ca}{6}{section.21}
+\contentsline {section}{\numberline {22}Wypraka z grza\IeC {\l }kami zabudowane \IeC {\textendash } ze spustem do kanalizacji przemys\IeC {\l }owej (po\IeC {\l }\IeC {\k a}czy\IeC {\l }bym to z przegrzewaczem pary, tak \IeC {\.z}eby na wyj\IeC {\'s}ciu by\IeC {\l }a para lekko przegrzana).}{6}{section.22}
+\contentsline {section}{\numberline {23}Grza\IeC {\l }ki w ogniwach patrz punkt wy\IeC {\.z}ej}{6}{section.23}
+\contentsline {section}{\numberline {24}SOE-MCFC linia bez armatury co najwy\IeC {\.z}ej temp. pomiar \IeC {\textendash } prawdopodobnie b\IeC {\k e}dzie to jedno urz\IeC {\k a}dzenie.}{6}{section.24}
+\contentsline {section}{\numberline {25}Spr\IeC {\k e}\IeC {\.z}arka 4 .. 20~bar + agregat ch\IeC {\l }odniczy do osuszenia + adsorpcja}{6}{section.25}
+\contentsline {section}{\numberline {26}Azot z butli sprawdzi\IeC {\'c} sk\IeC {\l }ad SOE wra\IeC {\.z}liwe na tlen w gazie. Konieczne do okre\IeC {\'s}lenia poziom min.}{6}{section.26}
+\contentsline {section}{\numberline {27}+Sterowanie przep\IeC {\l }ywami przez MCFC od temperatury anody \IeC {\textendash } konieczno\IeC {\'s}\IeC {\'c} utrzymania r\IeC {\'o}wnomiernego ci\IeC {\'s}nienia pomi\IeC {\k e}dzy anod\IeC {\k a} a~katod\IeC {\k a}}{6}{section.27}
+\contentsline {section}{\numberline {28}Z chwil\IeC {\k a} podania wody i obci\IeC {\k a}\IeC {\.z}enia pr\IeC {\k a}dowego pojawi si\IeC {\k e} H2 i musi to p\IeC {\'o}j\IeC {\'s}\IeC {\'c} na baypass reaktora na pochodni\IeC {\k e} + ch\IeC {\l }odzenie gazu przed podaniem na flar\IeC {\k e} do temp poni\IeC {\.z}ej temperatury pracy SNG 370$^{\circ }$C}{7}{section.28}
+\contentsline {section}{\numberline {29}(Kuba) SOE \IeC {\textendash } 3 ampery na minut\IeC {\k e} obci\IeC {\k a}\IeC {\.z}enie}{7}{section.29}
+\contentsline {section}{\numberline {30}Rozruch}{7}{section.30}
