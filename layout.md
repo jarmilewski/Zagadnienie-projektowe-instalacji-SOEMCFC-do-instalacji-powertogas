@@ -1,5 +1,7 @@
 untitled.tex
 sectionBilanse_masow.tex
+ndh2uq6arp8.tex
+gt9u3i14p18.tex
 sectionBilans_mocy_e.tex
 sectionKubaWytyczne_.tex
 sectionKuba_Opis_pro.tex
